@@ -1,0 +1,684 @@
+1496366826281	geckodriver	INFO	Listening on 127.0.0.1:54475
+1496366827346	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496366829097	Marionette	INFO	Listening on port 43505
+1496366829168	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:2818): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+1496366857939	geckodriver	INFO	Listening on 127.0.0.1:57285
+1496366859004	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496366860815	Marionette	INFO	Listening on port 37019
+1496366860926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496366901031	geckodriver	INFO	Listening on 127.0.0.1:52725
+1496366902096	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496366903886	Marionette	INFO	Listening on port 33203
+1496366903929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496366920640	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1496366920656	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1496366970248	geckodriver	INFO	Listening on 127.0.0.1:53133
+1496366971312	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496366973111	Marionette	INFO	Listening on port 44445
+1496366973156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496367030832	geckodriver	INFO	Listening on 127.0.0.1:49451
+1496367031897	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496367033636	Marionette	INFO	Listening on port 35109
+1496367033724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496367079874	geckodriver	INFO	Listening on 127.0.0.1:38791
+1496367080941	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496367082774	Marionette	INFO	Listening on port 37831
+1496367082855	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496367108919	geckodriver	INFO	Listening on 127.0.0.1:40483
+1496367109984	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496367111762	Marionette	INFO	Listening on port 39111
+1496367111804	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496367184294	geckodriver	INFO	Listening on 127.0.0.1:54973
+1496367185360	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496367187224	Marionette	INFO	Listening on port 43309
+1496367187288	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496367763946	geckodriver	INFO	Listening on 127.0.0.1:53011
+1496367765009	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496367766752	Marionette	INFO	Listening on port 39199
+1496367766853	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496367793188	geckodriver	INFO	Listening on 127.0.0.1:44259
+1496367794252	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496367796027	Marionette	INFO	Listening on port 46491
+1496367796071	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496367797371	Marionette	INFO	New connections will no longer be accepted
+1496367903437	geckodriver	INFO	Listening on 127.0.0.1:48159
+1496367904503	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496367906267	Marionette	INFO	Listening on port 42667
+1496367906333	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496368309978	geckodriver	INFO	Listening on 127.0.0.1:40423
+1496368311042	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496368312846	Marionette	INFO	Listening on port 43419
+1496368312876	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496368549318	geckodriver	INFO	Listening on 127.0.0.1:47195
+1496368550381	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496368552136	Marionette	INFO	Listening on port 41509
+1496368552212	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496368597852	geckodriver	INFO	Listening on 127.0.0.1:45693
+1496368598914	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496368600677	Marionette	INFO	Listening on port 41263
+1496368600747	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496368647063	geckodriver	INFO	Listening on 127.0.0.1:39191
+1496368648128	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496368649915	Marionette	INFO	Listening on port 34059
+1496368649950	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496369243619	geckodriver	INFO	Listening on 127.0.0.1:57017
+1496369244684	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496369246419	Marionette	INFO	Listening on port 43431
+1496369246502	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496369484555	geckodriver	INFO	Listening on 127.0.0.1:58335
+1496369485619	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496369487416	Marionette	INFO	Listening on port 33195
+1496369487452	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1496371451373	geckodriver	INFO	Listening on 127.0.0.1:47901
+1496371452432	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496371454275	Marionette	INFO	Listening on port 33781
+1496371454363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+1496371502512	geckodriver	INFO	Listening on 127.0.0.1:42545
+1496371503577	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496371505461	Marionette	INFO	Listening on port 42155
+1496371505492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496371608263	geckodriver	INFO	Listening on 127.0.0.1:45243
+1496371609324	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496371611184	Marionette	INFO	Listening on port 42211
+1496371611257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1496371699065	geckodriver	INFO	Listening on 127.0.0.1:45209
+1496371700130	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496371701989	Marionette	INFO	Listening on port 35391
+1496371702060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496372063938	geckodriver	INFO	Listening on 127.0.0.1:37031
+1496372065004	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496372066773	Marionette	INFO	Listening on port 34147
+1496372066834	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496372267331	geckodriver	INFO	Listening on 127.0.0.1:42343
+1496372268397	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496372270206	Marionette	INFO	Listening on port 37159
+1496372270312	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496372531580	geckodriver	INFO	Listening on 127.0.0.1:58255
+1496372532643	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496372534537	Marionette	INFO	Listening on port 32967
+1496372534573	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496372614490	geckodriver	INFO	Listening on 127.0.0.1:57395
+1496372615554	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496372617325	Marionette	INFO	Listening on port 34845
+1496372617390	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+Gdk-Message: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+1496379256363	geckodriver	INFO	Listening on 127.0.0.1:35587
+1496379256500	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496379258294	Marionette	INFO	Listening on port 33533
+1496379258329	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496382182664	geckodriver	INFO	Listening on 127.0.0.1:51727
+1496382183729	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496382185631	Marionette	INFO	Listening on port 43151
+1496382185689	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496382257777	geckodriver	INFO	Listening on 127.0.0.1:56491
+1496382258838	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1496382260754	Marionette	INFO	Listening on port 32973
+1496382260869	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496382316884	geckodriver	INFO	Listening on 127.0.0.1:50595
+1496382317947	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496382319734	Marionette	INFO	Listening on port 36345
+1496382319770	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496382353134	geckodriver	INFO	Listening on 127.0.0.1:33521
+1496382354197	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496382356135	Marionette	INFO	Listening on port 37097
+1496382356210	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496382393346	geckodriver	INFO	Listening on 127.0.0.1:54059
+1496382394408	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496382396364	Marionette	INFO	Listening on port 38951
+1496382396426	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496382754673	geckodriver	INFO	Listening on 127.0.0.1:49967
+1496382755730	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496382757616	Marionette	INFO	Listening on port 40161
+1496382757658	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496382835428	geckodriver	INFO	Listening on 127.0.0.1:35757
+1496382836485	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496382838392	Marionette	INFO	Listening on port 40493
+1496382838502	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496383211256	geckodriver	INFO	Listening on 127.0.0.1:50965
+1496383212319	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383214145	Marionette	INFO	Listening on port 41657
+1496383214233	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496383502512	geckodriver	INFO	Listening on 127.0.0.1:45577
+1496383503575	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383505374	Marionette	INFO	Listening on port 37107
+1496383505418	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496383537528	geckodriver	INFO	Listening on 127.0.0.1:52079
+1496383538593	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383540401	Marionette	INFO	Listening on port 37357
+1496383540507	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496383562535	geckodriver	INFO	Listening on 127.0.0.1:60871
+1496383563598	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383565424	Marionette	INFO	Listening on port 33355
+1496383565516	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496383609449	geckodriver	INFO	Listening on 127.0.0.1:39367
+1496383610514	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383612398	Marionette	INFO	Listening on port 44659
+1496383612445	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1496383804356	geckodriver	INFO	Listening on 127.0.0.1:41535
+1496383805420	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383807245	Marionette	INFO	Listening on port 33387
+1496383807334	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496383850381	geckodriver	INFO	Listening on 127.0.0.1:35753
+1496383851444	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383853288	Marionette	INFO	Listening on port 42569
+1496383853358	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496383877608	geckodriver	INFO	Listening on 127.0.0.1:43243
+1496383878671	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383880497	Marionette	INFO	Listening on port 45871
+1496383880583	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496383942528	geckodriver	INFO	Listening on 127.0.0.1:52133
+1496383943594	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383945400	Marionette	INFO	Listening on port 45197
+1496383945511	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 6015] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-6VXDIK/firefox-53.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1496383972683	geckodriver	INFO	Listening on 127.0.0.1:45311
+1496383973746	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496383975604	Marionette	INFO	Listening on port 33121
+1496383975667	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496384024883	geckodriver	INFO	Listening on 127.0.0.1:41489
+1496384025947	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496384027770	Marionette	INFO	Listening on port 41617
+1496384027862	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496384188272	geckodriver	INFO	Listening on 127.0.0.1:57279
+1496384189338	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496384191236	Marionette	INFO	Listening on port 39339
+1496384191273	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496386316117	geckodriver	INFO	Listening on 127.0.0.1:33519
+1496386317180	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496386318937	Marionette	INFO	Listening on port 33343
+1496386319013	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1496386579236	geckodriver	INFO	Listening on 127.0.0.1:51405
+1496386580300	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496386582092	Marionette	INFO	Listening on port 40389
+1496386582137	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496386663285	geckodriver	INFO	Listening on 127.0.0.1:39831
+1496386664348	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496386666173	Marionette	INFO	Listening on port 33809
+1496386666262	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496386715711	geckodriver	INFO	Listening on 127.0.0.1:37239
+1496386716772	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496386718568	Marionette	INFO	Listening on port 45091
+1496386718607	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496386900613	geckodriver	INFO	Listening on 127.0.0.1:39981
+1496386901676	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496386903471	Marionette	INFO	Listening on port 35935
+1496386903510	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496387560056	geckodriver	INFO	Listening on 127.0.0.1:55209
+1496387561120	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496387562900	Marionette	INFO	Listening on port 40271
+1496387562974	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1496387651398	geckodriver	INFO	Listening on 127.0.0.1:35403
+1496387652463	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496387654197	Marionette	INFO	Listening on port 33169
+1496387654287	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode89
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode248
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode106
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode249
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode115
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode250
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode248
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode268
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode249
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode269
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode250
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode270
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode268
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode297
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode269
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode298
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode270
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode299
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode297
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode306
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode298
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode307
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode299
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode308
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode306
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode334
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode307
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode335
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode308
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode336
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode334
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode340
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode335
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode341
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode336
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode342
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode340
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode492
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode341
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode493
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode342
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode494
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode492
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode500
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode493
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode501
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode494
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode502
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode500
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode585
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode501
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode586
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode502
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode587
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode585
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode601
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode586
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode602
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode587
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode603
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode114
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode603
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode105
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode602
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode99
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode88
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn1.child1/domnode601
+1496388931376	geckodriver	INFO	Listening on 127.0.0.1:52385
+1496388932436	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496388934248	Marionette	INFO	Listening on port 42325
+1496388934358	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1496388947925	geckodriver	INFO	Listening on 127.0.0.1:48179
+1496388948990	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496388950849	Marionette	INFO	Listening on port 36557
+1496388950923	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496391223819	geckodriver	INFO	Listening on 127.0.0.1:48601
+1496391224883	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496391226685	Marionette	INFO	Listening on port 35615
+1496391226719	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496391246703	geckodriver	INFO	Listening on 127.0.0.1:60447
+1496391247764	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496391249590	Marionette	INFO	Listening on port 46481
+1496391249683	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496391340238	geckodriver	INFO	Listening on 127.0.0.1:57901
+1496391341301	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496391343188	Marionette	INFO	Listening on port 43451
+1496391343228	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496391459695	geckodriver	INFO	Listening on 127.0.0.1:42255
+1496391460761	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496391462534	Marionette	INFO	Listening on port 34581
+1496391462604	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496391627417	geckodriver	INFO	Listening on 127.0.0.1:40943
+1496391628476	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496391630234	Marionette	INFO	Listening on port 36771
+1496391630315	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496391741229	geckodriver	INFO	Listening on 127.0.0.1:50869
+1496391742294	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496391744123	Marionette	INFO	Listening on port 43149
+1496391744209	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496391775142	geckodriver	INFO	Listening on 127.0.0.1:44965
+1496391776203	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496391778062	Marionette	INFO	Listening on port 40995
+1496391778131	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496391820099	geckodriver	INFO	Listening on 127.0.0.1:39821
+1496391821167	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496391822910	Marionette	INFO	Listening on port 38975
+1496391822992	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496392006067	geckodriver	INFO	Listening on 127.0.0.1:60521
+1496392007138	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496392008925	Marionette	INFO	Listening on port 44407
+1496392008964	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496392080989	geckodriver	INFO	Listening on 127.0.0.1:48945
+1496392082051	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496392083907	Marionette	INFO	Listening on port 35647
+1496392083979	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496392127608	geckodriver	INFO	Listening on 127.0.0.1:60163
+1496392128670	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496392130427	Marionette	INFO	Listening on port 42851
+1496392130539	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496394683405	geckodriver	INFO	Listening on 127.0.0.1:36591
+1496394684468	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496394686270	Marionette	INFO	Listening on port 35625
+1496394686304	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1670, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1670, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1670"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1670:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:628:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:676:7
+Line: 1670, column: 0
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1496394783777	geckodriver	INFO	Listening on 127.0.0.1:34363
+1496394784840	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496394786812	Marionette	INFO	Listening on port 33085
+1496394786869	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496394804611	geckodriver	INFO	Listening on 127.0.0.1:56311
+1496394805677	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496394807469	Marionette	INFO	Listening on port 44909
+1496394807503	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496394845850	geckodriver	INFO	Listening on 127.0.0.1:48809
+1496394846913	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496394848676	Marionette	INFO	Listening on port 41685
+1496394848764	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496394891192	geckodriver	INFO	Listening on 127.0.0.1:55923
+1496394892256	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496394894024	Marionette	INFO	Listening on port 40113
+1496394894103	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496395788816	geckodriver	INFO	Listening on 127.0.0.1:60423
+1496395789879	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496395791647	Marionette	INFO	Listening on port 39127
+1496395791729	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496395850845	geckodriver	INFO	Listening on 127.0.0.1:42029
+1496395851908	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496395853743	Marionette	INFO	Listening on port 35701
+1496395853820	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496892031298	geckodriver	INFO	Listening on 127.0.0.1:47833
+1496892031502	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1496892036268	Marionette	INFO	Listening on port 36979
+1496892036386	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1496892096005	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1496892096011	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
